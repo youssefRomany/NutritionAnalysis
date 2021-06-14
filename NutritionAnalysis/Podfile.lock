@@ -1,0 +1,44 @@
+PODS:
+  - Alamofire (5.2.2)
+  - IQKeyboardManagerSwift (6.5.6)
+  - MBProgressHUD (1.2.0)
+  - Moya (14.0.0):
+    - Moya/Core (= 14.0.0)
+  - Moya/Core (14.0.0):
+    - Alamofire (~> 5.0)
+  - Nuke (9.5.0)
+  - SwiftLint (0.40.3)
+  - SwiftMessages (8.0.2):
+    - SwiftMessages/App (= 8.0.2)
+  - SwiftMessages/App (8.0.2)
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift
+  - MBProgressHUD
+  - Moya
+  - Nuke
+  - SwiftLint
+  - SwiftMessages
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - IQKeyboardManagerSwift
+    - MBProgressHUD
+    - Moya
+    - Nuke
+    - SwiftLint
+    - SwiftMessages
+
+SPEC CHECKSUMS:
+  Alamofire: 814429acc853c6c54ff123fc3d2ef66803823ce0
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  Moya: 5b45dacb75adb009f97fde91c204c1e565d31916
+  Nuke: 6f400a4ea957e09149ec335a3c6acdcc814d89e4
+  SwiftLint: dfd554ff0dff17288ee574814ccdd5cea85d76f7
+  SwiftMessages: 633304165351b8e3dcbb81a71f8efcd86f9c1669
+
+PODFILE CHECKSUM: 7aa7497fc3cbc9a2a86164891c92ffedb72ea665
+
+COCOAPODS: 1.9.0
